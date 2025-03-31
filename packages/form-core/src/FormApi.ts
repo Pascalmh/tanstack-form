@@ -2061,6 +2061,31 @@ export class FormApi<
       ),
     }
   }
+
+  /**
+   * Sets the metadata for all fields in the form.
+   */
+  setAllFieldsMeta = (
+    updater: Updater<AnyFieldMeta>,
+  ) => {
+    this.baseStore.setState((prev) => {
+      const updatedFieldMetaBase = Object.keys(prev.fieldMetaBase).reduce(
+        (acc, key) => {
+          acc[key as DeepKeys<TFormData>] = functionalUpdate(
+            updater,
+            prev.fieldMetaBase[key as DeepKeys<TFormData>] as never,
+          )
+          return acc
+        },
+        {} as Record<DeepKeys<TFormData>, AnyFieldMetaBase>,
+      )
+
+      return {
+        ...prev,
+        fieldMetaBase: updatedFieldMetaBase,
+      }
+    })
+  }
 }
 
 function normalizeError<TFormData>(rawError?: FormValidationError<unknown>): {
