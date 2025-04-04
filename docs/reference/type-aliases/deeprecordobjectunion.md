@@ -13,7 +13,7 @@ type DeepRecordObjectUnion<T, TPrefix, TAcc, TAllKeys> = TAllKeys extends any ? 
   | Record<ObjectAccessor<TPrefix, TAllKeys>, T[TAllKeys]>> : never;
 ```
 
-Defined in: [packages/form-core/src/util-types.ts:65](https://github.com/TanStack/form/blob/main/packages/form-core/src/util-types.ts#L65)
+Defined in: [packages/form-core/src/util-types.ts:65](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/util-types.ts#L65)
 
 ## Type Parameters
 

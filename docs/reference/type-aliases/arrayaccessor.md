@@ -11,7 +11,7 @@ title: ArrayAccessor
 type ArrayAccessor<TPrefix> = `${TPrefix}[${number}]`;
 ```
 
-Defined in: [packages/form-core/src/util-types.ts:24](https://github.com/TanStack/form/blob/main/packages/form-core/src/util-types.ts#L24)
+Defined in: [packages/form-core/src/util-types.ts:24](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/util-types.ts#L24)
 
 ## Type Parameters
 

@@ -11,7 +11,7 @@ title: TupleAccessor
 type TupleAccessor<TPrefix, TKey> = `${TPrefix}[${TKey & string}]`;
 ```
 
-Defined in: [packages/form-core/src/util-types.ts:36](https://github.com/TanStack/form/blob/main/packages/form-core/src/util-types.ts#L36)
+Defined in: [packages/form-core/src/util-types.ts:36](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/util-types.ts#L36)
 
 ## Type Parameters
 

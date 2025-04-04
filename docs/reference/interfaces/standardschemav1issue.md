@@ -7,7 +7,7 @@ title: StandardSchemaV1Issue
 
 # Interface: StandardSchemaV1Issue
 
-Defined in: [packages/form-core/src/standardSchemaValidator.ts:144](https://github.com/TanStack/form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L144)
+Defined in: [packages/form-core/src/standardSchemaValidator.ts:144](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L144)
 
 The issue interface of the failure output.
 
@@ -19,7 +19,7 @@ The issue interface of the failure output.
 readonly message: string;
 ```
 
-Defined in: [packages/form-core/src/standardSchemaValidator.ts:148](https://github.com/TanStack/form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L148)
+Defined in: [packages/form-core/src/standardSchemaValidator.ts:148](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L148)
 
 The error message of the issue.
 
@@ -31,6 +31,6 @@ The error message of the issue.
 readonly optional path: readonly (PropertyKey | StandardSchemaV1PathSegment)[];
 ```
 
-Defined in: [packages/form-core/src/standardSchemaValidator.ts:152](https://github.com/TanStack/form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L152)
+Defined in: [packages/form-core/src/standardSchemaValidator.ts:152](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/standardSchemaValidator.ts#L152)
 
 The path of the issue, if any.

@@ -11,7 +11,7 @@ title: AllTupleKeys
 type AllTupleKeys<T> = T extends any ? keyof T & `${number}` : never;
 ```
 
-Defined in: [packages/form-core/src/util-types.ts:41](https://github.com/TanStack/form/blob/main/packages/form-core/src/util-types.ts#L41)
+Defined in: [packages/form-core/src/util-types.ts:41](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/util-types.ts#L41)
 
 ## Type Parameters
 
