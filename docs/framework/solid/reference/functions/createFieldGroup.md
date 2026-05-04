@@ -9,7 +9,7 @@ title: createFieldGroup
 function createFieldGroup<TFormData, TFieldGroupData, TFields, TOnMount, TOnChange, TOnChangeAsync, TOnBlur, TOnBlurAsync, TOnSubmit, TOnSubmitAsync, TOnDynamic, TOnDynamicAsync, TOnServer, TComponents, TFormComponents, TSubmitMeta>(opts): AppFieldExtendedSolidFieldGroupApi<TFormData, TFieldGroupData, TFields, TOnMount, TOnChange, TOnChangeAsync, TOnBlur, TOnBlurAsync, TOnSubmit, TOnSubmitAsync, TOnDynamic, TOnDynamicAsync, TOnServer, TSubmitMeta, TComponents, TFormComponents>;
 ```
 
-Defined in: [packages/solid-form/src/createFieldGroup.tsx:74](https://github.com/TanStack/form/blob/main/packages/solid-form/src/createFieldGroup.tsx#L74)
+Defined in: [packages/solid-form/src/createFieldGroup.tsx:74](https://github.com/Pascalmh/tanstack-form/blob/main/packages/solid-form/src/createFieldGroup.tsx#L74)
 
 ## Type Parameters
 

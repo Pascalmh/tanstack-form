@@ -9,7 +9,7 @@ title: mergeForm
 function mergeForm<TFormData, TOnMount, TOnChange, TOnChangeAsync, TOnBlur, TOnBlurAsync, TOnSubmit, TOnSubmitAsync, TOnDynamic, TOnDynamicAsync, TOnServer, TSubmitMeta>(baseForm, state): FormApi<TFormData, TOnMount, TOnChange, TOnChangeAsync, TOnBlur, TOnBlurAsync, TOnSubmit, TOnSubmitAsync, TOnDynamic, TOnDynamicAsync, TOnServer, TSubmitMeta>;
 ```
 
-Defined in: [packages/form-core/src/mergeForm.ts:77](https://github.com/TanStack/form/blob/main/packages/form-core/src/mergeForm.ts#L77)
+Defined in: [packages/form-core/src/mergeForm.ts:77](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/mergeForm.ts#L77)
 
 ## Type Parameters
 

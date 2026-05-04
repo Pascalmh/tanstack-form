@@ -9,7 +9,7 @@ title: BroadcastFormState
 type BroadcastFormState = object;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:9](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L9)
+Defined in: [packages/form-core/src/EventClient.ts:9](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L9)
 
 ## Properties
 
@@ -19,7 +19,7 @@ Defined in: [packages/form-core/src/EventClient.ts:9](https://github.com/TanStac
 id: string;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:10](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L10)
+Defined in: [packages/form-core/src/EventClient.ts:10](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L10)
 
 ***
 
@@ -29,4 +29,4 @@ Defined in: [packages/form-core/src/EventClient.ts:10](https://github.com/TanSta
 state: AnyFormState;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:11](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L11)
+Defined in: [packages/form-core/src/EventClient.ts:11](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L11)

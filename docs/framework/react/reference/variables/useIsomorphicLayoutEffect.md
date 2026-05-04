@@ -9,7 +9,7 @@ title: useIsomorphicLayoutEffect
 const useIsomorphicLayoutEffect: (effect, deps?) => void;
 ```
 
-Defined in: [packages/react-form/src/useIsomorphicLayoutEffect.ts:3](https://github.com/TanStack/form/blob/main/packages/react-form/src/useIsomorphicLayoutEffect.ts#L3)
+Defined in: [packages/react-form/src/useIsomorphicLayoutEffect.ts:3](https://github.com/Pascalmh/tanstack-form/blob/main/packages/react-form/src/useIsomorphicLayoutEffect.ts#L3)
 
 The signature is identical to `useEffect`, but it fires synchronously after all DOM mutations.
 Use this to read layout from the DOM and synchronously re-render. Updates scheduled inside

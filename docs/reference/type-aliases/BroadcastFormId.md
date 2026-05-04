@@ -9,7 +9,7 @@ title: BroadcastFormId
 type BroadcastFormId = object;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:41](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L41)
+Defined in: [packages/form-core/src/EventClient.ts:41](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L41)
 
 ## Properties
 
@@ -19,4 +19,4 @@ Defined in: [packages/form-core/src/EventClient.ts:41](https://github.com/TanSta
 id: string;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:42](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L42)
+Defined in: [packages/form-core/src/EventClient.ts:42](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L42)

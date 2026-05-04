@@ -9,7 +9,7 @@ title: BroadcastFormApi
 type BroadcastFormApi = object;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:14](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L14)
+Defined in: [packages/form-core/src/EventClient.ts:14](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L14)
 
 ## Properties
 
@@ -19,7 +19,7 @@ Defined in: [packages/form-core/src/EventClient.ts:14](https://github.com/TanSta
 id: string;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:15](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L15)
+Defined in: [packages/form-core/src/EventClient.ts:15](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L15)
 
 ***
 
@@ -29,7 +29,7 @@ Defined in: [packages/form-core/src/EventClient.ts:15](https://github.com/TanSta
 options: AnyFormOptions;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:17](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L17)
+Defined in: [packages/form-core/src/EventClient.ts:17](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L17)
 
 ***
 
@@ -39,4 +39,4 @@ Defined in: [packages/form-core/src/EventClient.ts:17](https://github.com/TanSta
 state: AnyFormState;
 ```
 
-Defined in: [packages/form-core/src/EventClient.ts:16](https://github.com/TanStack/form/blob/main/packages/form-core/src/EventClient.ts#L16)
+Defined in: [packages/form-core/src/EventClient.ts:16](https://github.com/Pascalmh/tanstack-form/blob/main/packages/form-core/src/EventClient.ts#L16)
